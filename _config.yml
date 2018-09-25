@@ -1,1 +1,9 @@
-theme: jekyll-theme-architect
+
+title: Space Force
+description: Version 1.0 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
